@@ -1,5 +1,5 @@
 {
   "showAds": false,
-  "showFakeUsers": false,
-  "showRealUsers": true
+  "showFakeUsers": true,
+  "showRealUsers": false
 }
