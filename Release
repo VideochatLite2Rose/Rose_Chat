@@ -1,6 +1,6 @@
 {
   "showAds": true,
-  "showFakeUsers": true,
-  "showRealUsers": false,
+  "showFakeUsers": false,
+  "showRealUsers": true,
   "updateAppLink": ""
 }
